@@ -1,0 +1,26 @@
+/* src/components/Calculator.css */
+.calculator {
+    background-color: #f1f3f4;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  .calculator-buttons {
+    margin-top: 10px;
+  }
+  
+  .form-control {
+    font-size: 24px;
+    text-align: right;
+  }
+  
+  .btn {
+    font-size: 18px;
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+  }
+  
